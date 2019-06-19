@@ -1,0 +1,30 @@
+4  Background color
+2  Axes and axes-label color
+0  Plot-label color
+0  Line color
+                                      first plot label
+                                          second plot label
+                                      third plot label
+x                                                ! xtitle
+y                                                ! ytitle
+8 8         number of ticks on x and y axes
+1 1         Draw axes ?  Label the axes ?
+
+-2 2    xmin,xmax
+-2 2    ymin,ymax
+
+1           marker
+1           line type
+
+COLORS:
+-------
+
+      Black    = 0
+      Red      = 1
+      Green    = 2
+      Yellow   = 3
+      Blue     = 4
+      Magenta  = 5
+      Cyan     = 6
+      White    = 7
+
